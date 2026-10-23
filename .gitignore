@@ -1,0 +1,6 @@
+# Native FreeBSD builds, local installation, and disposable Wine prefixes.
+/build-freebsd/
+/local-freebsd/
+/prefix-freebsd/
+/profiles-freebsd/
+.DS_Store

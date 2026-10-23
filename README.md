@@ -1,3 +1,6 @@
+For this independently maintained native FreeBSD fork and its development commands, see
+[README.freebsd.md](README.freebsd.md) ([中文](README.freebsd.zh-CN.md)).
+
 ## INTRODUCTION
 
 Wine is a program which allows running Microsoft Windows programs
